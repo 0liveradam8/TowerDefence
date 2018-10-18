@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C92E1299-E773-47B0-9D92-56EF0C494919}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\ExtraDebug\ExtraDebugContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\ExtraDebug\ExtraDebug\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\ExtraDebug\ExtraDebug\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\ExtraDebug\ExtraDebug\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-13T16:49:03.9957802+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

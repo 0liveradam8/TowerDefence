@@ -1,0 +1,1055 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Map.png</Source>
+      <Name>Sprites\Map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Map.xnb</Output>
+      <Time>2016-11-02T10:31:21.5919958+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ArrowTower.png</Source>
+      <Name>Sprites\ArrowTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\ArrowTower.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MissileTower.png</Source>
+      <Name>Sprites\MissileTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\MissileTower.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Rock.png</Source>
+      <Name>Sprites\Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Rock.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Water.png</Source>
+      <Name>Sprites\Water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Water.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WhitePixel.png</Source>
+      <Name>Sprites\WhitePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\WhitePixel.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ArrowTowerButton.png</Source>
+      <Name>Sprites\ArrowTowerButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\ArrowTowerButton.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MissileTowerButton.png</Source>
+      <Name>Sprites\MissileTowerButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\MissileTowerButton.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Arrow.png</Source>
+      <Name>Sprites\Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Arrow.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Textbox.png</Source>
+      <Name>Sprites\Textbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Textbox.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\JoinServer.png</Source>
+      <Name>Sprites\JoinServer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\JoinServer.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\JoinServerDown.png</Source>
+      <Name>Sprites\JoinServerDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\JoinServerDown.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Multiplayer.png</Source>
+      <Name>Sprites\Multiplayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Multiplayer.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MultiplayerDown.png</Source>
+      <Name>Sprites\MultiplayerDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\MultiplayerDown.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SinglePlayer.png</Source>
+      <Name>Sprites\SinglePlayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\SinglePlayer.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SinglePlayerDown.png</Source>
+      <Name>Sprites\SinglePlayerDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\SinglePlayerDown.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\StartServer.png</Source>
+      <Name>Sprites\StartServer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\StartServer.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\StartServerDown.png</Source>
+      <Name>Sprites\StartServerDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\StartServerDown.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Server.png</Source>
+      <Name>Sprites\Server</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Server.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Port.png</Source>
+      <Name>Sprites\Port</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Port.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Start.png</Source>
+      <Name>Sprites\Start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Start.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\StartDown.png</Source>
+      <Name>Sprites\StartDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\StartDown.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BeamTower.png</Source>
+      <Name>Sprites\BeamTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\BeamTower.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BeamTowerButton.png</Source>
+      <Name>Sprites\BeamTowerButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\BeamTowerButton.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Beam.png</Source>
+      <Name>Sprites\Beam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Beam.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WhirlwindTowerButton.png</Source>
+      <Name>Sprites\WhirlwindTowerButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\WhirlwindTowerButton.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WhirlwindTower.png</Source>
+      <Name>Sprites\WhirlwindTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\WhirlwindTower.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Orb.png</Source>
+      <Name>Sprites\Orb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Orb.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\OrbButton.png</Source>
+      <Name>Sprites\OrbButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\OrbButton.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LightTower.png</Source>
+      <Name>Sprites\LightTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\LightTower.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LightTowerButton.png</Source>
+      <Name>Sprites\LightTowerButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\LightTowerButton.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LightShot.png</Source>
+      <Name>Sprites\LightShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\LightShot.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WaterShot.png</Source>
+      <Name>Sprites\WaterShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\WaterShot.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WaterTower.png</Source>
+      <Name>Sprites\WaterTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\WaterTower.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WaterTowerButton.png</Source>
+      <Name>Sprites\WaterTowerButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\WaterTowerButton.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Missile.png</Source>
+      <Name>Sprites\Missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Missile.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\NormalEnemy.png</Source>
+      <Name>Sprites\NormalEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\NormalEnemy.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\NormalEnemyButton.png</Source>
+      <Name>Sprites\NormalEnemyButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\NormalEnemyButton.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\FireballEnemy.png</Source>
+      <Name>Sprites\FireballEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\FireballEnemy.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\FireballEnemyButton.png</Source>
+      <Name>Sprites\FireballEnemyButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\FireballEnemyButton.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WindEnemy.png</Source>
+      <Name>Sprites\WindEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\WindEnemy.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WindEnemyButton.png</Source>
+      <Name>Sprites\WindEnemyButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\WindEnemyButton.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\FlowerEnemy.png</Source>
+      <Name>Sprites\FlowerEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\FlowerEnemy.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\FlowerEnemyButton.png</Source>
+      <Name>Sprites\FlowerEnemyButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\FlowerEnemyButton.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WaterButton.png</Source>
+      <Name>Sprites\WaterButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\WaterButton.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Castle.png</Source>
+      <Name>Sprites\Castle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Castle.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UpgradeTower.png</Source>
+      <Name>Sprites\UpgradeTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\UpgradeTower.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bubble.png</Source>
+      <Name>Sprites\Bubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Bubble.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BarbedWireTower.png</Source>
+      <Name>Sprites\BarbedWireTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\BarbedWireTower.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ArtilleryTower.png</Source>
+      <Name>Sprites\ArtilleryTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\ArtilleryTower.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PlasmaBeam.png</Source>
+      <Name>Sprites\PlasmaBeam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\PlasmaBeam.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UraniumMissile.png</Source>
+      <Name>Sprites\UraniumMissile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\UraniumMissile.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UraniumTower.png</Source>
+      <Name>Sprites\UraniumTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\UraniumTower.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PoisonArrow.png</Source>
+      <Name>Sprites\PoisonArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\PoisonArrow.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PoisonArrowTower.png</Source>
+      <Name>Sprites\PoisonArrowTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\PoisonArrowTower.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PierceArrow.png</Source>
+      <Name>Sprites\PierceArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\PierceArrow.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PierceArrowTower.png</Source>
+      <Name>Sprites\PierceArrowTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\PierceArrowTower.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BubbleTower.png</Source>
+      <Name>Sprites\BubbleTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\BubbleTower.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WaveTower.png</Source>
+      <Name>Sprites\WaveTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\WaveTower.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LaserTower.png</Source>
+      <Name>Sprites\LaserTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\LaserTower.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\StunTower.png</Source>
+      <Name>Sprites\StunTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\StunTower.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\DeleteTower.png</Source>
+      <Name>Sprites\DeleteTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\DeleteTower.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Wall.png</Source>
+      <Name>Sprites\Wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Wall.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WallButton.png</Source>
+      <Name>Sprites\WallButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\WallButton.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Back.png</Source>
+      <Name>Sprites\Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Back.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BackDown.png</Source>
+      <Name>Sprites\BackDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\BackDown.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Instructions.png</Source>
+      <Name>Sprites\Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Instructions.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\InstructionsDown.png</Source>
+      <Name>Sprites\InstructionsDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\InstructionsDown.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\QuitGame.png</Source>
+      <Name>Sprites\QuitGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\QuitGame.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\QuitGameDown.png</Source>
+      <Name>Sprites\QuitGameDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\QuitGameDown.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Rules.png</Source>
+      <Name>Sprites\Rules</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Rules.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ElementalDamageMultipliers.png</Source>
+      <Name>Sprites\ElementalDamageMultipliers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\ElementalDamageMultipliers.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\HeatDissipationTower.png</Source>
+      <Name>Sprites\HeatDissipationTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\HeatDissipationTower.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PlasmaBeamTower.png</Source>
+      <Name>Sprites\PlasmaBeamTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\PlasmaBeamTower.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LevelSelector.png</Source>
+      <Name>Sprites\LevelSelector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\LevelSelector.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\AddLevel.png</Source>
+      <Name>Sprites\AddLevel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\AddLevel.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\AddNewMap.png</Source>
+      <Name>Sprites\AddNewMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\AddNewMap.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\EndXPosition.png</Source>
+      <Name>Sprites\EndXPosition</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\EndXPosition.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\EndYPosition.png</Source>
+      <Name>Sprites\EndYPosition</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\EndYPosition.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\StartXPosition.png</Source>
+      <Name>Sprites\StartXPosition</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\StartXPosition.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\StartYPosition.png</Source>
+      <Name>Sprites\StartYPosition</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\StartYPosition.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\AddLevelDown.png</Source>
+      <Name>Sprites\AddLevelDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\AddLevelDown.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\AddNewMapDown.png</Source>
+      <Name>Sprites\AddNewMapDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\AddNewMapDown.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LevelEditor.png</Source>
+      <Name>Sprites\LevelEditor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\LevelEditor.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LevelEditorDown.png</Source>
+      <Name>Sprites\LevelEditorDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\LevelEditorDown.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MainMenu.png</Source>
+      <Name>Sprites\MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\MainMenu.xnb</Output>
+      <Time>2016-11-02T10:01:02.2509354+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MainMenuDown.png</Source>
+      <Name>Sprites\MainMenuDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\MainMenuDown.xnb</Output>
+      <Time>2016-11-02T10:01:02.2549357+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BlackSquare.png</Source>
+      <Name>Sprites\BlackSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\BlackSquare.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Erase.png</Source>
+      <Name>Sprites\Erase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Erase.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\EraseDown.png</Source>
+      <Name>Sprites\EraseDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\EraseDown.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Paint.png</Source>
+      <Name>Sprites\Paint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Paint.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PaintDown.png</Source>
+      <Name>Sprites\PaintDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\PaintDown.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SaveMap.png</Source>
+      <Name>Sprites\SaveMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\SaveMap.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SaveMapDown.png</Source>
+      <Name>Sprites\SaveMapDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\SaveMapDown.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SmallBack.png</Source>
+      <Name>Sprites\SmallBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\SmallBack.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SmallBackDown.png</Source>
+      <Name>Sprites\SmallBackDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\SmallBackDown.xnb</Output>
+      <Time>2016-09-21T13:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LevelSelectorDown.png</Source>
+      <Name>Sprites\LevelSelectorDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\LevelSelectorDown.xnb</Output>
+      <Time>2016-09-21T18:00:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ViewEnemyMap.png</Source>
+      <Name>Sprites\ViewEnemyMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\ViewEnemyMap.xnb</Output>
+      <Time>2016-09-21T18:14:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Clear.png</Source>
+      <Name>Sprites\Clear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\Clear.xnb</Output>
+      <Time>2016-09-21T18:00:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ClearDown.png</Source>
+      <Name>Sprites\ClearDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\ClearDown.xnb</Output>
+      <Time>2016-09-21T18:00:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\OpenMap.png</Source>
+      <Name>Sprites\OpenMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\OpenMap.xnb</Output>
+      <Time>2016-09-21T18:00:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\OpenMapDown.png</Source>
+      <Name>Sprites\OpenMapDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\OpenMapDown.xnb</Output>
+      <Time>2016-09-21T18:00:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ViewEnemyMapDown.png</Source>
+      <Name>Sprites\ViewEnemyMapDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\ViewEnemyMapDown.xnb</Output>
+      <Time>2016-09-21T18:14:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExitGame.png</Source>
+      <Name>Sprites\ExitGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\ExitGame.xnb</Output>
+      <Time>2016-10-17T21:21:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExitGameDown.png</Source>
+      <Name>Sprites\ExitGameDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\ExitGameDown.xnb</Output>
+      <Time>2016-10-17T21:21:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\AccessLevelFiles.png</Source>
+      <Name>Sprites\AccessLevelFiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\AccessLevelFiles.xnb</Output>
+      <Time>2016-10-25T11:26:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\AccessLevelFilesDown.png</Source>
+      <Name>Sprites\AccessLevelFilesDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\AccessLevelFilesDown.xnb</Output>
+      <Time>2016-10-25T11:26:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\OpenGame.png</Source>
+      <Name>Sprites\OpenGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\OpenGame.xnb</Output>
+      <Time>2016-11-02T10:01:02.2569358+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\OpenGameDown.png</Source>
+      <Name>Sprites\OpenGameDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\OpenGameDown.xnb</Output>
+      <Time>2016-11-02T10:01:02.2589359+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SaveGame.png</Source>
+      <Name>Sprites\SaveGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\SaveGame.xnb</Output>
+      <Time>2016-11-02T09:54:23.5761326+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SaveGameDown.png</Source>
+      <Name>Sprites\SaveGameDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Sprites\SaveGameDown.xnb</Output>
+      <Time>2016-11-02T09:54:24.0691608+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial10.spritefont</Source>
+      <Name>Arial10</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\Arial10.xnb</Output>
+      <Time>2016-09-21T13:47:04+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{37B945F1-C249-470D-B6FE-A8497A5E7B7B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefenceContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Oliver\Documents\Visual Studio 2013\Projects\TowerDefence\TowerDefence\TowerDefence\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-18T02:05:49.3582141+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
